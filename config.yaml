@@ -25,7 +25,7 @@ params:
     main: /images/site/main-logo.png
     inverted: /images/site/inverted-logo.png
 
-  # GitHub repo URL of your site
+  # GitHub repo URL of my site
   gitRepo: https://github.com/juliayun91/juliayun91.github.io
 
   # specify whether you want to write some blog posts or not
