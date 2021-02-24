@@ -1,4 +1,4 @@
-baseURL: https://nomatterhoe.github.io
+baseURL: https://juliayun91.github.io
 languageCode: en-us
 title: "Julia Yun's Portfolio"
 theme: "toha"
@@ -26,7 +26,7 @@ params:
     inverted: /images/site/inverted-logo.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/nomatterhoe/nomatterhoe.github.io
+  gitRepo: https://github.com/juliayun91/juliayun91.github.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
