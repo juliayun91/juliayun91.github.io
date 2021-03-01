@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 date: 2021-02-22T08:06:25+06:00
-description: Introduction to Sample Post
+description: Julia Yun's Introduction Post
 menu:
   sidebar:
     name: Introduction
