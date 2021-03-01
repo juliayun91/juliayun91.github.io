@@ -2,6 +2,7 @@ baseURL: https://juliayun91.github.io
 languageCode: en-us
 title: "Julia Yun's Portfolio"
 theme: "toha"
+googleAnalytics: UA-190802667-1
 
 languages:
   en:
