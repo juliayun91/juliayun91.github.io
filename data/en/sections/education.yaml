@@ -22,7 +22,7 @@ degrees:
     outOf: 7
   publications: #(optional)
   - title: "An Online Human-Agent Interaction System: A Brain-controlled Agent Playing Games in Unity"
-    url: "https://youtu.be/9AWKHeatc6I"
+    url: "http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1758.pdf"
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
