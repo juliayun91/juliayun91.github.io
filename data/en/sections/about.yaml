@@ -46,11 +46,11 @@ softSkills:
   percentage: 90
   color: green
 - name: Leadership
-  percentage: 95
+  percentage: 85
   color: blue
 - name: Fast Learner
-  percentage: 85
+  percentage: 95
   color: sky
 - name: Problem Solving
-  percentage: 85
+  percentage: 90
   color: orange
