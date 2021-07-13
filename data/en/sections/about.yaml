@@ -18,7 +18,7 @@ company:
 #resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I have a master degree in IT and bachelor degree in Software Engineering. I am an Android developer with 5+ years of working experience. I built applications on Android phones and enjoy building websites in my spare time. I am also into artificial intelligence and machine learning, my master thesis is about reinforcement-learning-based autunomous driving. If my profile interests you, please feel free to contact me through the email icon below."
+summary: "I have a master degree in IT and bachelor degree in Software Engineering. I am an Android developer with 5+ years of working experience. I built applications on Android phones and enjoy building websites in my spare time. I am also into artificial intelligence and machine learning, my master thesis was about reinforcement-learning-based autunomous driving. If my profile interests you, please feel free to contact me through the email icon below."
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
@@ -46,7 +46,7 @@ softSkills:
   percentage: 90
   color: green
 - name: Leadership
-  percentage: 85
+  percentage: 95
   color: blue
 - name: Fast Learner
   percentage: 85
