@@ -11,14 +11,14 @@ section:
 designation: Postgraduate in IT
 # your company information
 company:
-  name: University of Tasmania
-  url: "https://www.utas.edu.au/"
+  name: Pitt&Sherry
+  url: "https://www.pittsh.com.au/"
 
 # your resume. this file path should be relative to you "static" directory
 #resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I am a postgraduate student in IT and an Android developer with 5+ years of working experience. I am an ACS certified software engineer. I built applications on Android phones and enjoy building websites in my spare time. I am also into artificial intelligence and machine learning, my master thesis is about reinforcement-learning-based autunomous driving. I am graduating in June this year and thus actively looking for full-time/part-time jobs in software development and IT field in Tasmania,Australia. If my profile interests you, please feel free to contact me through the email icon below."
+summary: "I have a master degree in IT and bachelor degree in Software Engineering. I am an Android developer with 5+ years of working experience. I built applications on Android phones and enjoy building websites in my spare time. I am also into artificial intelligence and machine learning, my master thesis is about reinforcement-learning-based autunomous driving. If my profile interests you, please feel free to contact me through the email icon below."
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
