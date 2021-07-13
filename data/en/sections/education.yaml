@@ -12,13 +12,13 @@ section:
 degrees:
 - name: Master in Information Technology and Systems
   icon: fa-university
-  timeframe: 2019.07-Now
+  timeframe: 2019.07-2021.06
   institution:
     name: University of Tasmania
     url: "https://www.utas.edu.au/"
   grade: #(optional)
     scale: GPA
-    achieved: 6.83
+    achieved: 6.63
     outOf: 7
   publications: #(optional)
   - title: "An Online Human-Agent Interaction System: A Brain-controlled Agent Playing Games in Unity"
