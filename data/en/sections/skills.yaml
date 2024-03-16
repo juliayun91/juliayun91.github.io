@@ -3,7 +3,7 @@ section:
   name: Skills
   id: skills
   enable: true
-  weight: 2
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -11,13 +11,21 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Android Development
+- name: Terraform
   icon: "/images/sections/skills/android.png"
-  summary: "Experienced in designing, developing, deploying and maintaining mobile applications on Android."
+  summary: "Experienced in provisioning AWS resources using Terraform."
 
-- name: Web Development
-  icon: "/images/sections/skills/web_development.png"
-  summary: "Capable of implementing responsive web pages using HTML, CSS, JavaScript, PHP, BootStrap. Experienced in using website building tools/frameworks including WordPress, Hugo."
+- name: GitOps
+  icon: "/images/sections/skills/android.png"
+  summary: "Experienced in using GitOps tool FluxCD to deploy and manage lifecycle of applications and infrastructure on Kubernetes."
+
+- name: AWS
+  icon: "/images/sections/skills/android.png"
+  summary: "Experienced in various AWS resources including EC2, RDS, EKS, ECR, S3, AWS Secrets Manager, VPC, Route53, etc."
+
+- name: Microsoft Azure
+  icon: "/images/sections/skills/android.png"
+  summary: "Experienced in Azure Blob Storage, Azure Functions, SignalR, Cosmos DB, etc."
 
 - name: Shell Scripting
   icon: "/images/sections/skills/shell_scripting.jpeg"
@@ -26,6 +34,14 @@ skills:
 - name: Network Administration
   icon: "/images/sections/skills/admin.png"
   summary: "Familiar with network architecture and security. Knowledge in routing and subnetting."
+
+- name: Android Development
+  icon: "/images/sections/skills/android.png"
+  summary: "Experienced in designing, developing, deploying and maintaining mobile applications on Android."
+
+- name: Web Development
+  icon: "/images/sections/skills/web_development.png"
+  summary: "Capable of implementing responsive web pages using HTML, CSS, JavaScript, PHP, BootStrap. Experienced in using website building tools/frameworks including WordPress, Hugo."
 
 - name: Java
   logo: /images/sections/skills/java.png
@@ -38,22 +54,4 @@ skills:
 - name: C#
   logo: /images/sections/skills/csharp.png
   summary: "Able to use C# to build client applications including GUI implementation and database communication."
-
-- name: JavaScript
-  logo: /images/sections/skills/js.png
-  summary: "Used for web development. Able to use and debug."
-
-- name: PHP
-  logo: /images/sections/skills/php.png
-  summary: "Used for web development. Able to use and debug."
-
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development, mainly used GitLab and Github."
-  url: "https://git-scm.com/"
-
-- name: Jira
-  logo: /images/sections/skills/jira.jpeg
-  summary: "Experienced with Jira used as platform for requirement and test case management."
-  url: "https://www.atlassian.com/software/jira"
 
