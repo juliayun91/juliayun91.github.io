@@ -20,11 +20,11 @@ skills:
   summary: "Experienced in using GitOps tool FluxCD to deploy and manage lifecycle of applications and infrastructure on Kubernetes."
 
 - name: AWS
-  logo: /images/sections/skills/aws.png
+  logo: /images/sections/skills/aws.webp
   summary: "Experienced in various AWS resources including EC2, RDS, EKS, ECR, S3, AWS Secrets Manager, VPC, Route53, etc."
 
 - name: Microsoft Azure
-  logo: /images/sections/skills/azure.jpeg
+  logo: /images/sections/skills/azure.png
   summary: "Experienced in Azure Blob Storage, Azure Functions, SignalR, Cosmos DB, etc."
 
 - name: Shell Scripting
@@ -32,7 +32,7 @@ skills:
   summary: "Familiar with shell commands on Unix, able to write shell scripts to complete certain tasks"
 
 - name: Network Administration
-  icon: "/images/sections/skills/admin.png"
+  logo: /images/sections/skills/network_admin.png
   summary: "Familiar with network architecture and security. Knowledge in routing and subnetting."
 
 - name: Android Development
