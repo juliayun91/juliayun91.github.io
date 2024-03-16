@@ -12,23 +12,23 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Terraform
-  icon: "/images/sections/skills/terraform.png"
+  logo: /images/sections/skills/terraform.png
   summary: "Experienced in provisioning AWS resources using Terraform."
 
 - name: GitOps
-  icon: "/images/sections/skills/fluxcd.png"
+  logo: /images/sections/skills/fluxcd.png
   summary: "Experienced in using GitOps tool FluxCD to deploy and manage lifecycle of applications and infrastructure on Kubernetes."
 
 - name: AWS
-  icon: "/images/sections/skills/aws.png"
+  logo: /images/sections/skills/aws.png
   summary: "Experienced in various AWS resources including EC2, RDS, EKS, ECR, S3, AWS Secrets Manager, VPC, Route53, etc."
 
 - name: Microsoft Azure
-  icon: "/images/sections/skills/azure.jpeg"
+  logo: /images/sections/skills/azure.jpeg
   summary: "Experienced in Azure Blob Storage, Azure Functions, SignalR, Cosmos DB, etc."
 
 - name: Shell Scripting
-  icon: "/images/sections/skills/shell_scripting.jpeg"
+  logo: /images/sections/skills/shell_scripting.jpeg
   summary: "Familiar with shell commands on Unix, able to write shell scripts to complete certain tasks"
 
 - name: Network Administration
@@ -36,11 +36,11 @@ skills:
   summary: "Familiar with network architecture and security. Knowledge in routing and subnetting."
 
 - name: Android Development
-  icon: "/images/sections/skills/android.png"
+  logo: /images/sections/skills/android.png
   summary: "Experienced in designing, developing, deploying and maintaining mobile applications on Android."
 
 - name: Web Development
-  icon: "/images/sections/skills/web_development.png"
+  logo: /images/sections/skills/web_development.png
   summary: "Capable of implementing responsive web pages using HTML, CSS, JavaScript, PHP, BootStrap. Experienced in using website building tools/frameworks including WordPress, Hugo."
 
 - name: Java
