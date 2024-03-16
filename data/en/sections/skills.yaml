@@ -12,19 +12,19 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Terraform
-  icon: "/images/sections/skills/android.png"
+  icon: "/images/sections/skills/terraform.png"
   summary: "Experienced in provisioning AWS resources using Terraform."
 
 - name: GitOps
-  icon: "/images/sections/skills/android.png"
+  icon: "/images/sections/skills/fluxcd.png"
   summary: "Experienced in using GitOps tool FluxCD to deploy and manage lifecycle of applications and infrastructure on Kubernetes."
 
 - name: AWS
-  icon: "/images/sections/skills/android.png"
+  icon: "/images/sections/skills/aws.png"
   summary: "Experienced in various AWS resources including EC2, RDS, EKS, ECR, S3, AWS Secrets Manager, VPC, Route53, etc."
 
 - name: Microsoft Azure
-  icon: "/images/sections/skills/android.png"
+  icon: "/images/sections/skills/azure.jpeg"
   summary: "Experienced in Azure Blob Storage, Azure Functions, SignalR, Cosmos DB, etc."
 
 - name: Shell Scripting
