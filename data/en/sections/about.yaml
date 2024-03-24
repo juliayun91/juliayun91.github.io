@@ -15,7 +15,7 @@ company:
   url: "https://imos.org.au/"
 
 # your resume. this file path should be relative to you "static" directory
-#resume: "files/resume.pdf"
+resume: "files/Resume-JuliaYun.pdf"
 
 # a summary about you
 summary: "I'm a full-stack software engineer with 9+ years of experience in software development across multiple industries. Programming languages I'm familiar with include Python, Java, C#. I am a big fan of cloud technologies and have hands on experience with AWS and Microsoft Azure. I am also into artificial intelligence and machine learning, with one publication in top-tier conference.
@@ -53,5 +53,5 @@ softSkills:
   percentage: 95
   color: sky
 - name: Problem Solving
-  percentage: 90
+  percentage: 95
   color: orange

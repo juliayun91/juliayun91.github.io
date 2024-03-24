@@ -44,7 +44,7 @@ experiences:
     - Design, development and maintenance of in-house software AssetAsyst in both web version and mobile version.
     
 - company:
-    name: PandaTV.
+    name: PandaTV
     url: "https://panda.tv/"
     location: Beijing,China
     # company overview
@@ -59,7 +59,7 @@ experiences:
     - Involved in the evaluation, design and refactoring of the client-side and streamer-side apps on Android platform for better streaming performance.
     
 - company:
-    name: Rush.
+    name: Rush
     location: Beijing,China
     overview: Rush.im is a mobile mail app supporting different email accounts including Gmail, iCloud, Exchange, QQ and live chat feature between email accounts.
   positions:
@@ -70,7 +70,7 @@ experiences:
     - Responsible for the integration of different email accounts, contact management, picture processing and settings modules.
 
 - company:
-    name: Wandou Labs.
+    name: Wandou Labs
     url: "https://www.wandoujia.com/"
     location: Beijing,China
     overview: "Wandoujia: One of Chinese mainstream Android app stores. SnapLock: A smart screen lock app which offers helpful and intelligent information to users, based on time, user's location, similar to
@@ -85,7 +85,7 @@ GoogleNow."
 and taxi ordering though accessibility service of Android phones."
 
 - company:
-    name: Dabanniu.
+    name: Dabanniu
     location: Beijing,China
     overview: Dabannniu is a hairstyle changing App enabling changing hairstyles on users’ head photos.
   positions:
@@ -96,10 +96,10 @@ and taxi ordering though accessibility service of Android phones."
     - "Responsible for the Android-side implementation of functional modules including account management, social media sharing, picture cache framework, hair dyeing and hairstylist profile page"
 
 - company:
-    name: Renren.com.
+    name: Renren.com
     url: "http://www.renren.com"
     location: Beijing,China
-    overview: "Renren.com was Chinese version of Facebook."
+    overview: "Renren.com was the Chinese version of Facebook."
   positions:
   - designation: Software Engineer (Android)
     start: Jul 2012
