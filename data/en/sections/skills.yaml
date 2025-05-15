@@ -27,6 +27,10 @@ skills:
   logo: /images/sections/skills/azure.png
   summary: "Experienced in Azure Blob Storage, Azure Functions, SignalR, Cosmos DB, etc."
 
+- name: Kubernetes
+  logo: /images/sections/skills/kubernetes.png
+  summary: "Experienced in maintaining and troubleshooting Kubernetes clusters in both development and production environments."
+  
 - name: Shell Scripting
   logo: /images/sections/skills/shell_scripting.jpeg
   summary: "Familiar with shell commands on Unix, able to write shell scripts to complete certain tasks"
