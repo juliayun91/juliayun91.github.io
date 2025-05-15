@@ -17,8 +17,20 @@ experiences:
     # company overview
     overview: IMOS is Australia's integrated marine observing system. IMOS's mission is to undertake systematic, sustained, scientifically robust observation of Australia's vase and valuable ocean estates; and turn these observations into data, time series, products and analyses that can be used and reused for broad societal benefit.
   positions:
+  - designation: Cloud Engineer
+    start: June 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: 
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Support and maintain the cloud infrastructure of the existing geospatial and web-based applications and services hosted on AWS.
+    - Provision new cloud native infrastructure using IaC (Terraform) to empower the AODN to deliver next generation of web applications and services.
+    - Act as the Scrum Master within the DevOps team to facilitates Scrum events, removes impediments, and coaches the team on self-management and continuous improvement.
+    - Implement appropriate monitoring, logging, security controls and processes, using New Relic, Cloud Watch, etc.
+    - Contribute to the response of cyber security incidents in a timely manner.
   - designation: Full Stack Software Engineer
     start: Jan 2023
+    end: Jun 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: 
     # give some points about what was your responsibilities at the company.
