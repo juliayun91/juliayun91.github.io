@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Full Stack Software Engineer
+designation: Cloud Engineer
 # your company information
 company:
   name: IMOS (Integrated Marine Observing System) 
@@ -18,7 +18,7 @@ company:
 resume: "files/Resume-JuliaYun.pdf"
 
 # a summary about you
-summary: "I'm a full-stack software engineer with 8+ years of experience in software development across multiple industries. Programming languages I'm familiar with include Python, Java, C#. I am a big fan of cloud technologies and have hands on experience with AWS and Microsoft Azure. I am also into artificial intelligence and machine learning, with one publication in top-tier conference.
+summary: "I'm a cloud engineer with 4 years+ hands on experience in AWS and Microsoft Azure, with AWS Solution Architect and Terraform certifications. I started my career as a software engineer, worked for multiple industries until I found greater passion for cloud technologies and automation. I am also into artificial intelligence and machine learning, with 2 publications in top-tier conferences.
 I enjoy logical thinking, problem solving and learning new things. If my profile interests you, please feel free to contact me through the email icon below."
 # your social links
 # give as many as you want. use font-awesome for the icons.
