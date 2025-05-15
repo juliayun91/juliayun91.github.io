@@ -31,8 +31,6 @@ experiences:
   - designation: Full Stack Software Engineer
     start: Jan 2023
     end: Jun 2024
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: 
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Lead software engineer of the RIMReP 2050 (Reef Integrated Monitoring and Reporting Program) to build a fit-for-purpose data management system for the Great Barrier Reef.
@@ -47,7 +45,7 @@ experiences:
     # company overview
     overview: pitt&sherry is an Australian-owned engineering and environmental consultancy.
   positions:
-  - designation: Software Developer
+  - designation: Full Stack Software Developer
     start: Jun 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: Dec 2022
@@ -62,7 +60,7 @@ experiences:
     # company overview
     overview: PandaTV is a live streaming platform for video games and other genres.
   positions:
-  - designation: Senior Android Engineer
+  - designation: Senior Software Engineer
     start: Oct 2016
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: Sep 2017
