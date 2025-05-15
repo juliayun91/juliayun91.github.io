@@ -10,6 +10,9 @@ section:
 
 # Your achievements achievements
 achievements:
+- title: My paper was awarded the "Best Paper" at the IEEE ICA 2024 conference!
+  image: /images/sections/achievements/best_paper_award.jpg
+  summary: I'm happy to share that my paper "Autonomous driving agents for safe road junctions through deep reinforcement learning" was awarded the "Best Paper" at the IEEE ICA 2024 conference!
 - title: My system demo project is accepted by AAMAS 2021!
   image: /images/sections/achievements/aamas2021.jpg
   summary: An Online Human-Agent Interaction System (A Brain-controlled Agent Playing Games in Unity, Youtube video https://youtu.be/9AWKHeatc6I)
